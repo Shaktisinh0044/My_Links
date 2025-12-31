@@ -59,12 +59,12 @@ No unnecessary complexity.
 ---
 
 ## 📂 Project Structure
-My_Links/
-│
-├── index.html
-├── README.md
-├── css/
-└── assets/
+My_Links/<br>
+│<br>
+├── index.html<br>
+├── README.md<br>
+├── css/<br>
+└── assets/<br>
 
 
 ---
